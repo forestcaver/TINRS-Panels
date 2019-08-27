@@ -1,3 +1,4 @@
 # TINRS-Panels
-TUesday Panel - verified and built
-Wobbler Panel - not yet verified (as of 26/12/18)
+Tuesday Panel - verified and built
+Wobbler Panel - verified and built
+Rectangular Thing - not yet verified (as of 27/8/19)
